@@ -1,0 +1,5 @@
+{
+  "name": "Anime Maker AI",
+  "description": "Generate professional-quality anime videos from text prompts using Google's advanced Veo video generation models. Choose your preferred model, aspect ratio, and resolution to bring your creative visions to life.",
+  "requestFramePermissions": []
+}
